@@ -2,8 +2,7 @@
 
 I'm Bhavya Mahyavanshi - Aspiring Java Developer | Student at Seneca Polytechnic
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhavyamahyavanshi&color=green)
-![Wakatime](https://wakatime.com/badge/user/YOUR-UNIQUE-ID.svg)
+![Profile Views](https://komarev.com/ghpvc/?Bhavya-mahyavanshi=bhavyamahyavanshi&color=green)
 
 ---
 
