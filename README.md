@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavya-mahyavanshi&color=brightgreen)
 ![Wakatime Badge](https://wakatime.com/badge/github/Bhavya-mahyavanshi/Bhavya-mahyavanshi.svg)
+
 🎓 Computer Programming Student @ Seneca Polytechnic  
 🚀 Aspiring Developer | 💡 Passionate About Code & Innovation  
 🌐 Pronouns: he/him
