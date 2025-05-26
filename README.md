@@ -1,35 +1,53 @@
-# Welcome to My GitHub! 👋
+# Hi there, I'm Bhavya Mahyavanshi! 👋
 
-I'm Bhavya Mahyavanshi - Aspiring Java Developer | Student at Seneca Polytechnic
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavya-mahyavanshi&color=brightgreen)
+![Wakatime Badge](https://wakatime.com/@bhavya_mahyavanshi)
 
-![Profile Views](https://komarev.com/ghpvc/?Bhavya-mahyavanshi=bhavyamahyavanshi&color=green)
+🎓 Computer Programming Student @ Seneca Polytechnic  
+🚀 Aspiring Developer | 💡 Passionate About Code & Innovation  
+🌐 Pronouns: he/him
 
 ---
 
 ## 🔥 About Me
-- 🔭 **Current Focus**: Java, DSA, GUI Development, MySQL
-- 🌱 **Learning**: Spring Boot, React, Advanced SQL, System Design
-- 💡 **Interested In**: Backend Dev, Open Source, Full-Stack Projects
-- 📫 **Reach Me At**: [your.email@example.com](mailto:your.email@example.com)
+
+- 💻 I'm focused on building solid foundations in **Java**, **DSA**, and **Database Systems**
+- 📚 Currently learning **Spring Boot**, **Java GUI**, and **System Design**
+- ✨ Passionate about full-stack web development and backend systems
+- 🤝 I enjoy collaborating on open-source and academic projects
+- 📫 How to reach me: [bhavyamahyavanshi1534@email.com](mailto:bhavyamahyavanshi1534@email.com)
 
 ---
 
-## 🛠️ Technical Skills
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyamahyavanshi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamahyavanshi&layout=compact&theme=tokyonight)
+![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavya-mahyavanshi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight)
 
 ---
 
-## ⏳ GitHub Activity Graph
+## 🔄 Contribution Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavyamahyavanshi&theme=github-compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya-mahyavanshi&theme=tokyonight)
+
+---
+
+## 📊 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-mahyavanshi&theme=github-compact)
+
+---
+
+> _“Consistency is the key to success — keep coding, keep building!”_
