@@ -50,4 +50,9 @@
 
 ---
 
+## Leetcode Stats
+
+!![LeetCode Stats](https://leetcard.jacoblin.cool/bhavya1534)
+
+
 > _“Consistency is the key to success — keep coding, keep building!”_
