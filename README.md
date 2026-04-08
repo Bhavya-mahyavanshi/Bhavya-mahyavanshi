@@ -33,9 +33,9 @@
 
 ## 📈 GitHub Stats
 
-![Bhavya's GitHub Stats](https://github-stats-khaki-five.vercel.app/api?username=Bhavya-mahyavanshi&show_icons=true&theme=tokyonight)
+![Bhavya's GitHub Stats](https://github-stats-khaki-five.vercel.app/api?username=Bhavya-mahyavanshi&show_icons=true&theme=tokyonight&v=1)
 
-![Top Languages](https://github-stats-khaki-five.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-khaki-five.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight&v=1)
 
 ---
 
