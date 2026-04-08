@@ -33,8 +33,9 @@
 
 ## 📈 GitHub Stats
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavya-mahyavanshi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight)
+![Bhavya's GitHub Stats](https://your-name.vercel.app/api?username=Bhavya-mahyavanshi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://your-name.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight)
 
 ---
 
