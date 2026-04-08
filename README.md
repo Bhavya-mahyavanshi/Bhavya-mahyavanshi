@@ -33,7 +33,7 @@
 
 ## 📈 GitHub Stats
 
-[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya-mahyavanshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya-mahyavanshi)]
 
 ![Top Languages](https://your-name.vercel.app/api/top-langs/?username=Bhavya-mahyavanshi&layout=compact&theme=tokyonight)
 
